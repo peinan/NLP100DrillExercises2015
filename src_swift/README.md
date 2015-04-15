@@ -8,7 +8,7 @@
 2. run `$ find /Applications/Xcode.app -name swift | grep /bin/swift`
   - in my env, it returns `/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swift`
 
-### set swift executing file to PATH
+### set PATH
 
 3. `$ export PATH=(/Applications/Xcode.app/.../bin/):$PATH` or write the path to `.zshrc`
 
