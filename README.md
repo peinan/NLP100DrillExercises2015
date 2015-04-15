@@ -1,6 +1,6 @@
 # NLP 100 Drill Exercises (2015 ver.)
 
-Basic methods of Natural Language Processing coding with Python2.x and Swift.[^1]
+Basic methods of Natural Language Processing coding with Python2.x and Swift.
 
 ## Directory
 
@@ -13,4 +13,8 @@ Basic methods of Natural Language Processing coding with Python2.x and Swift.[^1
 
 To see the details, see the README files in src directories.
 
-[^1]: [言語処理100本ノック 2015](http://goo.gl/77PCPs)
+## Links
+
+- [言語処理100本ノック 2015](http://goo.gl/77PCPs)
+- [NLP 100 Drill Exercises (old ver.)](http://www.cl.ecei.tohoku.ac.jp/index.php?NLP%20100%20Drill%20Exercises)
+- [My codes of NLP100DrillExercises (old ver.)](https://github.com/peinan/NLP100DrillExercises)
