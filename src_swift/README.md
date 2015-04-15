@@ -22,4 +22,4 @@ it would be easily running by `./hello.swift` with setting suffix alias to `.zsh
 
 ## Reference
 
-- Swiftをコマンドラインから実行 - Qiita - [http://goo.gl/9xe1pv]
+- [Swiftをコマンドラインから実行: Qiita](http://goo.gl/9xe1pv)
