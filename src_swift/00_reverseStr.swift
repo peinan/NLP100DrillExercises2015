@@ -8,6 +8,7 @@
 
 var str = "stressed"
 var strArray: [Character] = [Character]()
+// make a str copy with Character Type
 for character in str {
     strArray.append(character)
 }

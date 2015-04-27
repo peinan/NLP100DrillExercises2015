@@ -6,12 +6,14 @@
 //
 //
 
-import NSString
-
 var str = "パタトクカシーー"
-//var joinStr = ""
-//for i in [0, 2, 4, 6] {
-//    joinStr.append(str.substringFromIndex(i))
-//}
-//println("\(joinStr)")
-println((str as NSString).substringFromIndex(3))
+var strArray: [Character] = [Character]()
+for aChar in str {
+    strArray.append(aChar)
+}
+var extrStr: String = ""
+let charPos = [0, 2, 4, 6]
+for i in charPos {
+    extrStr.append(strArray[i])
+}
+println("\(str) -> \(extrStr)")
